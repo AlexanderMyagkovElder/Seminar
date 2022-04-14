@@ -1,0 +1,15 @@
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\bin\Debug\net6.0\Seminar001.exe
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\bin\Debug\net6.0\Seminar001.deps.json
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\bin\Debug\net6.0\Seminar001.runtimeconfig.json
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\bin\Debug\net6.0\Seminar001.dll
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\bin\Debug\net6.0\Seminar001.pdb
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\Seminar001.csproj.AssemblyReference.cache
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\Seminar001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\Seminar001.AssemblyInfoInputs.cache
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\Seminar001.AssemblyInfo.cs
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\Seminar001.csproj.CoreCompileInputs.cache
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\Seminar001.dll
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\refint\Seminar001.dll
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\Seminar001.pdb
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\Seminar001.genruntimeconfig.cache
+D:\Учеба\C Sharp\Seminar\seminar1\Seminar001\obj\Debug\net6.0\ref\Seminar001.dll
