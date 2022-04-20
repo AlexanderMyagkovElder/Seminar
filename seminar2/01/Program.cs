@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int number = new Random().Next(10, 100);
+int first = number / 10;
+int second = number % 10;
+Console.WriteLine(number);
+if (first > second) Console.WriteLine(first);
+else Console.WriteLine(second);
