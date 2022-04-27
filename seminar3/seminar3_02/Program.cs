@@ -1,17 +1,23 @@
 ﻿/* Напишите программу, которая принимает на вход координаты 2х и находит 
 расстояния между ними в 2D*/
-Console.Write("Введите координату Х точки А: ");
-int x1=Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координату Y точки А: ");
-int y1=Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координату Х точки B: ");
-int x2=Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координату Х точки B: ");
-int y2=Convert.ToInt32(Console.ReadLine());
-int Katet(int a,int b)
+
+int x1 = Vvod("x", "A");
+
+int y1 = Vvod("y", "A");
+
+int x2 = Vvod("x", "B");
+
+int y2 = Vvod("y", "B");
+double Katet(int a, int b)
 {
-    int katet=(b-a)*(b-a);
+    double katet = Math.Pow((b - a), 2);
     return katet;
 }
-double distance=Math.Sqrt(Katet(x1,x2)+Katet(y1,y2));
-Console.WriteLine($"Расстояние между точками равно {distance}");
+double distance = Math.Sqrt(Katet(x1, x2) + Katet(y1, y2));
+Console.WriteLine($"Расстояние между точками равно {Math.Round(distance)}");
+
+int Vvod(string XY, string AB)
+{
+    Console.Write($"Введите координату {XY} точки {AB}: ");
+    return Convert.ToInt32(Console.ReadLine());
+}
