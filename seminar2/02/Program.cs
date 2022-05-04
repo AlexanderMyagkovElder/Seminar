@@ -1,7 +1,8 @@
 ﻿//выводит 3хзначное число и удаляет вторую цифру этого числа
 int number = new Random().Next(100,1000);
-string [] array = Convert.ToString(number);
-Console.WriteLine(number(0)+number(2));
+Console.WriteLine(number);
+string array = Convert.ToString(number);
+Console.WriteLine($"{array[0]}{array[2]}");
 
 
 
