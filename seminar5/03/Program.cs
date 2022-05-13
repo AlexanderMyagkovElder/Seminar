@@ -10,7 +10,7 @@ for (int i = 0; i < massive.Length; i++)
         sum += 1;
     }
 }
-Console.WriteLine(sum);
+Console.WriteLine($"Совпадений найдено: {sum}");
 
 void Zapolnenie(int[] array)
 {
