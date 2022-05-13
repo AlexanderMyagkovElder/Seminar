@@ -29,7 +29,7 @@ else
         multiplic = massive[i] * massive[massive.Length - i - 1];
         multi[i] = multiplic;
     }
-    multi[multi.Length - 1] = massive[(massive.Length / 2)];
+    multi[multi.Length - 1] = massive[massive.Length / 2];
 }
 PrintArray(multi);
 
