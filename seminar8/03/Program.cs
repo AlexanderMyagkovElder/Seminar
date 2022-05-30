@@ -5,13 +5,10 @@ int n = InputNumber("Введите количество столбцов: ");
 int[,]massive=new int[m,n];
 GetArray(massive,m,n);
 Console.WriteLine();
-int z=0;
-for (int i = 0; i < 10; i++)
+int predel=10;
+for (int z = 0; z < predel; z++)
 {
-    for (int j = 0; j < 10; j++)
-    {
-        Podbor(massive,z++);   
-    }
+    Podbor(massive,z);   
 }
 int InputNumber(string output)
 {
